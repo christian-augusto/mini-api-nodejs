@@ -3,8 +3,7 @@
 ## How run?
 
 ```
-docker-compose build
-docker-compose up
+docker-compose up --build -d
 ```
 
 ## How stop?
